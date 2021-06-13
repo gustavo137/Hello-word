@@ -1,3 +1,2 @@
 # Hello-word
-This is an example repository on my github for learn how to use it.
-Now I make a changes in this tex because i can. 
+Hola mundo, yo soy Gustavo y estoy aprendiendo a programar APPs y APIs por lo cual necesito aprender a usar github, git y mas cosas. Saludos.  
