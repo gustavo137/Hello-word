@@ -1,2 +1,3 @@
 # Hello-word
-Hola mundo, yo soy Gustavo y estoy aprendiendo a programar APPs y APIs por lo cual necesito aprender a usar github, git y mas cosas. Saludos.  
+Hello, I am Gustavo Paredes Torres
+[Visit my LinkedIn](www.linkedin.com/in/gustavo-paredes-torres-8044b81a2)
